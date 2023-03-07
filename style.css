@@ -1,0 +1,87 @@
+.B1{
+    background-color: #ffe3e3;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;   
+   
+    /* look at those justfies */
+    height:500px;
+
+}
+.nav1{
+   
+    width: 30%;
+    
+}
+.nav2{
+    background-image: url(thrift6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#ffe3e3;
+    width: 70%;
+
+
+}
+.nav21{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    font-weight: bolder;
+    font-size:large;
+   color: #c92a2a;
+   margin-bottom: -20px;
+}
+.p21{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.mw{
+    display: flex;
+    flex-direction: row;
+   
+   
+}
+.mww{
+    
+
+}
+
+
+.b1{
+    background-image: url(thrift2.jpg);
+    height: 500px;
+}
+.b2{
+    display: flex;
+    flex-direction: row;
+    height:400px;
+    justify-content: space-around;
+}
+.b21{
+    background-image: url(thrift3.jpeg);
+    background-repeat: no-repeat;
+    /* width: 50%; */
+    background-size: cover;
+    width: 550px;
+}
+.b22{
+    background-image: url(thrift4.jpg);
+    /* width: 50%; */
+    background-repeat: no-repeat;
+    width:500px;
+}
+.fhr{
+    background-color: black;
+    color: antiquewhite;
+}
+footer{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
